@@ -1,6 +1,6 @@
 # GitDemo
 
-I created this repository sample to train myself on using git.
+I created this repository sample app to train myself on using git.
 
 ### This is a git demo for training purpose only
 
